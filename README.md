@@ -1,6 +1,4 @@
-# myMediaAppbyRose
-
-Media App by Rose
+# Media App by Rose
 
 This version contains all the requirements in the coding challenge as follows:
 
